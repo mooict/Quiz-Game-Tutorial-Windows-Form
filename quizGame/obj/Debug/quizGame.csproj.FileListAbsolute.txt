@@ -1,0 +1,9 @@
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.exe.config
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\bin\Debug\quizGame.pdb
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.csprojAssemblyReference.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.Form1.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.Properties.Resources.resources
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.csproj.GenerateResource.cache
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.exe
+C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\quizGame\quizGame\obj\Debug\quizGame.pdb
